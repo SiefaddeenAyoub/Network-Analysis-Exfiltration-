@@ -2,7 +2,7 @@
 
 ## Objective
 
-in this insightful Cybersecurity SOC Analyst Lab session where we delve into the critical topic of network exfiltration.
+An accountant at your organization received an email regarding an invoice with a download link. Suspicious network traffic was observed shortly after opening the email. As a SOC analyst, investigate the network trace and analyze exfiltration attempts.
 
 ### Skills Learned
 [Bullet Points - Remove this afterwards]
@@ -19,6 +19,11 @@ in this insightful Cybersecurity SOC Analyst Lab session where we delve into the
 - Security Information and Event Management (SIEM) system for log ingestion and analysis.
 - Network analysis tools (such as Wireshark) for capturing and examining network traffic.
 - Telemetry generation tools to create realistic network traffic and attack scenarios.
+- Wireshark
+- BrimSeecurity
+- Apackets
+- MaxMind Geo IP
+- VirusTotal
 
 ## Steps
 drag & drop screenshots here or use imgur and reference them using imgsrc
