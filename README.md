@@ -18,11 +18,7 @@ An accountant at your organization received an email regarding an invoice with a
 
 - Security Information and Event Management (SIEM) system for log ingestion and analysis.
 - Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
 - Wireshark
-- BrimSeecurity
-- Apackets
-- MaxMind Geo IP
 - VirusTotal
 
 ## Steps
